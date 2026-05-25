@@ -1,0 +1,14 @@
+Metric,Value
+Latest Zscore,-1.0804076732239491
+Best Entry Threshold,1.0
+Pair Score,1
+ML Convergence Probability,0.5109246294595107
+Predicted Strategy Return J+1,1.9067609654625508e-05
+Sentiment SHW,1.5
+Sentiment HD,-2.0
+Sentiment Difference,3.5
+Sentiment Score,1
+Meta Model Accuracy,0.9521276595744681
+Meta Model Probability Positive Return,0.011605893640279922
+Decision Threshold,0.55
+Final Recommendation,HOLD

@@ -1,0 +1,2 @@
+Stock_A,Stock_B,Latest_Zscore,Pair_Signal,ML_Convergence_Probability,Predicted_Strategy_Return_J1,Sentiment_Difference,Sentiment_Signal,Final_Recommendation
+SHW,HD,-2.665764597775954,LONG SHW / SHORT HD,0.4601783955643359,0.0029247209581643474,3.5,Sentiment favorable à SHW,LONG SHW / SHORT HD
